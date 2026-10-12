@@ -1,6 +1,6 @@
 # Expense Voucher Management System
 
-A web-based Expense Voucher Management System developed for Prachay Securities Private Limited (PSPL) to digitize the manual employee reimbursement, approval, and accounts monitoring lifecycle.
+A web-based Expense Voucher Management System Assignment developed for ABC Company to digitize the manual employee reimbursement, approval, and accounts monitoring lifecycle.
 
 ---
 
