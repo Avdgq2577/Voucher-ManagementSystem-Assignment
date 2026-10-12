@@ -70,7 +70,7 @@ export const Login = () => {
             Expense Voucher System
           </h1>
           <p style={{ fontSize: '0.875rem', color: 'var(--text-muted)', marginTop: '0.25rem' }}>
-            Prachay Securities Private Limited
+          ABC Company Private Limited
           </p>
         </div>
 
